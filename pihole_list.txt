@@ -1,3 +1,6 @@
 # Unwanted sites
 www.plannedparenthood.org
 plannedparenthood.org
+
+# Time Wasters
+tiktok.com
